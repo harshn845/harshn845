@@ -136,7 +136,7 @@ class HarshNagar:
 ## 🎓 Education
 
 **B.Tech in Computer Science**, CGC University, Mohali (graduated July 2026)
-CGPA: **8.02 / 10**
+CGPA: **8.10 / 10**
 *Coursework: DSA, OOP, DBMS, Operating Systems, Computer Networks*
 
 ---
